@@ -1,4 +1,4 @@
-# dw-top-thema
+# Deutsche Welle Top-Thema Downloader
 
 ## Overview
 
@@ -7,6 +7,8 @@ This project is aimed at developing a tool which can download automatically the 
 Such free resource includes manuscripts (PDF files) and audio files (MP3).
 
 This project is implemented in **Python** with the PyCharm IDE.
+
+![Screenshot](doc/dwtt-01-screenshot.png)
 
 ## Related technologies
 
